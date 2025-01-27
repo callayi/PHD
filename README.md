@@ -1,4 +1,4 @@
 # PHD
 ## I'm hungry.          
-my first repository
+my first repository.
 This is a test.
